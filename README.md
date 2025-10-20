@@ -1,7 +1,6 @@
-# Restaurant Ratings Analysis and Prediction
+# Analyzing and Predicting Restuarants Rating
 
-This project explores a restaurant dataset to understand what factors influence customer ratings.  
-It focuses on identifying relationships between variables such as cuisine type, average cost, votes, and restaurant ratings, while also building regression models to predict ratings based on these features.
+Understanding the restaurant dataset to analyze the factors influence customer ratings by identifying relationships between variables such as cuisine type, average cost, votes, and restaurant ratings, while also building regression models to predict ratings based on these features.
 
 ## Objectives
 1. Explore and clean the dataset to ensure consistency and accuracy.
